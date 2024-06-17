@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|c:\\users\\acl - \u00F3scar del r\u00EDo\\source\\repos\\pruebaflujo\\pruebaflujo\\handlers\\cotizadordirectohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|solutionrelative:pruebaflujo\\handlers\\cotizadordirectohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\pruebaflujo\\utils\\navegatorutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|solutionrelative:pruebaflujo\\utils\\navegatorutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\pruebaflujo\\utils\\modalutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|solutionrelative:pruebaflujo\\utils\\modalutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\pruebaflujo\\utils\\selectutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|solutionrelative:pruebaflujo\\utils\\selectutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\pruebaflujo\\utils\\multiselectutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|solutionrelative:pruebaflujo\\utils\\multiselectutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\pruebaflujo\\utils\\cardutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|solutionrelative:pruebaflujo\\utils\\cardutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\pruebaflujo\\utils\\selectorutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|solutionrelative:pruebaflujo\\utils\\selectorutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\pruebaflujo\\handlers\\ventaasistidahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|solutionrelative:pruebaflujo\\handlers\\ventaasistidahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\pruebaflujo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|solutionrelative:pruebaflujo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\pruebaflujo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A4A680D-D8DB-4C50-B799-2133BA42D80C}|PruebaFlujo\\PruebaFlujo.csproj|solutionrelative:pruebaflujo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:207625229:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavegatorUtil.cs",
+              "DocumentMoniker": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Utils\\NavegatorUtil.cs",
+              "RelativeDocumentMoniker": "PruebaFlujo\\Utils\\NavegatorUtil.cs",
+              "ToolTip": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Utils\\NavegatorUtil.cs",
+              "RelativeToolTip": "PruebaFlujo\\Utils\\NavegatorUtil.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAArwC0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:13:59.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModalUtil.cs",
+              "DocumentMoniker": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Utils\\ModalUtil.cs",
+              "RelativeDocumentMoniker": "PruebaFlujo\\Utils\\ModalUtil.cs",
+              "ToolTip": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Utils\\ModalUtil.cs",
+              "RelativeToolTip": "PruebaFlujo\\Utils\\ModalUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:10:34.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectUtil.cs",
+              "DocumentMoniker": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Utils\\SelectUtil.cs",
+              "RelativeDocumentMoniker": "PruebaFlujo\\Utils\\SelectUtil.cs",
+              "ToolTip": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Utils\\SelectUtil.cs",
+              "RelativeToolTip": "PruebaFlujo\\Utils\\SelectUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:02:30.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultiSelectUtil.cs",
+              "DocumentMoniker": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Utils\\MultiSelectUtil.cs",
+              "RelativeDocumentMoniker": "PruebaFlujo\\Utils\\MultiSelectUtil.cs",
+              "ToolTip": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Utils\\MultiSelectUtil.cs",
+              "RelativeToolTip": "PruebaFlujo\\Utils\\MultiSelectUtil.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAnwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:55:37.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardUtil.cs",
+              "DocumentMoniker": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Utils\\CardUtil.cs",
+              "RelativeDocumentMoniker": "PruebaFlujo\\Utils\\CardUtil.cs",
+              "ToolTip": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Utils\\CardUtil.cs",
+              "RelativeToolTip": "PruebaFlujo\\Utils\\CardUtil.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:20:40.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SelectorUtil.cs",
+              "DocumentMoniker": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Utils\\SelectorUtil.cs",
+              "RelativeDocumentMoniker": "PruebaFlujo\\Utils\\SelectorUtil.cs",
+              "ToolTip": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Utils\\SelectorUtil.cs",
+              "RelativeToolTip": "PruebaFlujo\\Utils\\SelectorUtil.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAnwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:15:40.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VentaAsistidaHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Handlers\\VentaAsistidaHandler.cs",
+              "RelativeDocumentMoniker": "PruebaFlujo\\Handlers\\VentaAsistidaHandler.cs",
+              "ToolTip": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Handlers\\VentaAsistidaHandler.cs",
+              "RelativeToolTip": "PruebaFlujo\\Handlers\\VentaAsistidaHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:40:08.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CotizadorDirectoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Handlers\\CotizadorDirectoHandler.cs",
+              "RelativeDocumentMoniker": "PruebaFlujo\\Handlers\\CotizadorDirectoHandler.cs",
+              "ToolTip": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Handlers\\CotizadorDirectoHandler.cs",
+              "RelativeToolTip": "PruebaFlujo\\Handlers\\CotizadorDirectoHandler.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAhwGAAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:22:42.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Form1.cs",
+              "RelativeDocumentMoniker": "PruebaFlujo\\Form1.cs",
+              "ToolTip": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Form1.cs",
+              "RelativeToolTip": "PruebaFlujo\\Form1.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAcwHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:52:09.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Form1.cs",
+              "RelativeDocumentMoniker": "PruebaFlujo\\Form1.cs",
+              "ToolTip": "C:\\Users\\ACL - \u00D3scar Del R\u00EDo\\source\\repos\\PruebaFlujo\\PruebaFlujo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PruebaFlujo\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:52:06.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
